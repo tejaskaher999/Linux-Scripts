@@ -17,13 +17,13 @@ A collection of practical **Linux shell scripts** for automating tasks, system m
 
 ---
 
-## 📖 Introduction
+## Introduction
 
 This repository offers a curated set of shell scripts designed to simplify and automate various Linux administration and user-level tasks. Whether you are a system administrator, developer, or Linux enthusiast, these scripts are made to enhance your workflow, automate repetitive tasks, and improve system efficiency.
 
 ---
 
-## ✨ Features
+## Features
 
 - 🔁 **Automation:** Streamline and automate repetitive system administration tasks  
 - 📊 **System Monitoring:** Check system health, resources, uptime, logs, etc.  
@@ -33,7 +33,7 @@ This repository offers a curated set of shell scripts designed to simplify and a
 
 ---
 
-## 🚀 Getting Started
+## Getting Started
 
 ### 1. Clone the Repository
 
@@ -52,7 +52,7 @@ ls -l
 
 ---
 
-## ⚙️ Usage Instructions
+## Usage Instructions
 
 ### 1. Open in `vim` (optional)
 
@@ -82,7 +82,7 @@ sh user_group_management.sh
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit your scripts or improvements.
 
@@ -104,14 +104,14 @@ Please make sure your script includes:
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the **MIT License**.  
 See the [LICENSE](LICENSE) file for more information.
 
 ---
 
-## 📬 Contact
+## Contact
 
 For questions, suggestions, or bug reports, please:
 
