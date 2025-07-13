@@ -8,11 +8,12 @@ A collection of practical **Linux shell scripts** for automating tasks, system m
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Getting-Started](#getting-started)
-- [Usage](#usage)
+- [Getting Started](#getting-started)
+- [Usage Instructions](#usage-instructions)
 - [Contributing](#contributing)
 - [License](#license)
 - [Contact](#contact)
+
 
 ---
 
