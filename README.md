@@ -6,13 +6,13 @@ A collection of practical **Linux shell scripts** for automating tasks, system m
 
 ## 📚 Table of Contents
 
-- [📖 Introduction](#introduction)
-- [✨ Features](#features)
-- [🚀 Getting Started](#getting-started)
-- [⚙️ Usage](#usage)
-- [🤝 Contributing](#contributing)
-- [📄 License](#license)
-- [📬 Contact](#contact)
+- [Introduction](#introduction)
+- [Features](#features)
+- [Getting-Started](#getting-started)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
 
 ---
 
