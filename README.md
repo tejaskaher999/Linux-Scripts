@@ -51,28 +51,30 @@ ls -l
 
 ---
 
-## ⚙️ Usage
+## ⚙️ Usage Instructions
 
-### 1. Review the Script
-
-It’s best practice to open the script in a text editor (e.g., `nano`, `vim`, `code`) and review the content:
+### 1. Open in `vim` (optional)
 
 ```bash
-nano scriptname.sh
+vim user_group_management.sh
 ```
 
-### 2. Make the Script Executable
+> Review or modify the script as needed.
 
-If the script is not already executable:
+---
+
+### 2. Make it Executable (Optional)
 
 ```bash
-chmod +x scriptname.sh
+chmod +x user_group_management.sh
 ```
 
-### 3. Run the Script
+---
+
+### 3. Run the Script Using `sh`
 
 ```bash
-./scriptname.sh
+sh user_group_management.sh
 ```
 
 > ⚠️ **Caution:** Always review scripts before running them, especially with elevated privileges (`sudo`).
