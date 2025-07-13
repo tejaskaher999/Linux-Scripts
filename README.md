@@ -63,7 +63,7 @@ vim user_group_management.sh
 
 ---
 
-### 2. Make it Executable (Optional)
+### 2. Make it Executable
 
 ```bash
 chmod +x user_group_management.sh
